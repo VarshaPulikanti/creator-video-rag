@@ -137,9 +137,7 @@ frontend/
 1. **Project URL** — `http://localhost:3000` (or your deploy URL)  
 2. **Project Description** — one paragraph: RAG chatbot comparing YouTube (A) vs Instagram Reel (B); LangChain, ChromaDB, FastAPI, Next.js; dynamic ingest, streaming chat with citations.  
 3. **Loom URL** — your recording (fresh run, two real URLs, all 5 prompts + follow-up for memory)  
-4. **Github repo** — `https://github.com/YOUR_USERNAME/creator-video-rag`
-
-**Git history:** from project root run `.\scripts\make-git-history.ps1` then push.
+4. **Github repo** — `https://github.com/VarshaPulikanti/creator-video-rag`
 
 ---
 

@@ -49,7 +49,7 @@ Open http://localhost:3000
 
 ```powershell
 cd c:\Users\P. Balakistanna\Downloads\project
-git remote add origin https://github.com/YOUR_USERNAME/creator-video-rag.git
+git remote add origin https://github.com/VarshaPulikanti/creator-video-rag.git
 git branch -M main
 git push -u origin main
 ```
@@ -59,4 +59,4 @@ git push -u origin main
 1. Project URL: http://localhost:3000  
 2. Project Description: (see README opening paragraph)  
 3. Loom URL: your link  
-4. Github repo: your link  
+4. Github repo: https://github.com/VarshaPulikanti/creator-video-rag  
